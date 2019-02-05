@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+.item.hidden{
+    display: none;
+}
+.item.active{
+    display: block;
+    float:left;
+    height:auto;
+    cursor: pointer;
+}
+
+.item.active img{
+    width: 100%;
+    height: auto;
+
+}
